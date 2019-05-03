@@ -1,0 +1,21 @@
+{
+  "name": "reservoir-sample-stdin",
+  "version": "1.0.0",
+  "description": "Reservoir sample stdin: randomly sample a fixed number of lines",
+  "main": "readme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reservoir",
+    "sampling",
+    "stdin"
+  ],
+  "bin": {
+    "reservoir-sample-stdin": "./readme.js"
+  },
+  "author": "Ahmed Fasih",
+  "repository": "github:fasiha/reservoir-sample-stdin",
+  "license": "Unlicense",
+  "dependencies": {}
+}
