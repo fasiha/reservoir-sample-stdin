@@ -1,6 +1,6 @@
 {
   "name": "reservoir-sample-stdin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reservoir sample stdin: randomly sample a fixed number of lines",
   "main": "readme.js",
   "scripts": {
